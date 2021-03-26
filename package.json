@@ -1,0 +1,23 @@
+{
+  "name": "voice-match-node-js",
+  "version": "1.0.0",
+  "description": "Match an word speach with node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusdelima/voice-match-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusdelima/voice-match-node-js/issues"
+  },
+  "homepage": "https://github.com/viniciusdelima/voice-match-node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
